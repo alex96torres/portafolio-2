@@ -10,7 +10,7 @@ body {
 
 header {
     padding: 50px;
-    background-color: aquamarine;
+    background-color: rgb(57, 84, 75);
     text-align: center;
 }
 
@@ -52,7 +52,7 @@ footer {
 
 @media screen and (max-width: 700px) {
     nav, .row{
-        flex-direction: column;66
+        flex-direction: column;
     }
     
 }
